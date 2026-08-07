@@ -3,7 +3,7 @@
 Termux OS with 70+ tools.
 
 ## Install
-curl -o scrotch.sh https://raw.githubusercontent.com/vovka216/scratch-os/main/scrotch.sh && bash scrotch.sh
+curl -o scratch.sh https://raw.githubusercontent.com/vovka216/scratch-os/main/scratch.sh && bash scratch.sh
 
 ## Commands
 menu
